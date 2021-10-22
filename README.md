@@ -2,7 +2,7 @@
 
 This private workshop repository contains projects, hands-on training, coding challenges, and class-notes for the Clarusway Students of AWS & DevOps EU Cohort 4/20.
 
-## Description
+## Description-
 
 The clarusway-workshop repository contains materials related to the IT trainings like projects, hands-on trainings, coding challenges, class-notes etc. in the following main areas.
 
